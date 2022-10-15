@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanthoshBahadur
 - 👀 I’m interested in Web Devlopment & Business
 - 🌱 I’m currently learning React ⚛️
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 💞️ I’m looking to collaborate on Open source & Projects
 - 📫 How to reach me : Saanthosh.bahadur2@gmail.com 
 - ❤️ You can even reach me on linkedin : https://www.linkedin.com/in/santhosh-bahadur-b2b221146/
 <!---
